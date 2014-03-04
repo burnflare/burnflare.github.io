@@ -1,3 +1,21 @@
 <html>
-<iframe src="https://www.google.com/calendar/embed?title=Vishnu's%20Life&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=vishnuprem.com_gkd8j9sbmrm51n7jq9nc3hritc%40group.calendar.google.com&amp;color=%23A32929&amp;src=vishnuprem.com_fjcdsfk95cpv08qo2bd6g2fvqk%40group.calendar.google.com&amp;color=%23A32929&amp;src=vishnu%40vishnuprem.com&amp;color=%23A32929&amp;ctz=Asia%2FSingapore" style=" border-width:0 " width="100%" height="100%" frameborder="0" scrolling="no"></iframe>
+<body>
+	<div id="cal">
+		
+	</div>
+</body>
+<script type="text/javascript" charset="utf-8">
+	var src = "Asia%2FSingapore";
+	if (window.location.search.split('timezone=')[1]=='PST') {
+		src = "America%2FLos_Angeles";
+	} else if(window.location.search.split('timezone=')[1]=='EST') {
+		src = "America%2FNew_York";
+	}
+	var html = "<iframe id=\"cal\" style=\"border-width:0\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" src=\"https://www.google.com/calendar/embed?title=Vishnu's%20Life&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=vishnuprem.com_gkd8j9sbmrm51n7jq9nc3hritc%40group.calendar.google.com&amp;color=%23A32929&amp;src=vishnuprem.com_fjcdsfk95cpv08qo2bd6g2fvqk%40group.calendar.google.com&amp;color=%23A32929&amp;src=vishnu%40vishnuprem.com&amp;color=%23A32929&amp;ctz=";
+	html += src;
+	html += "\"><\/iframe>";
+	document.getElementById("cal").innerHTML=html;
+</script>
+
+
 </html>
