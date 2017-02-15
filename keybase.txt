@@ -1,0 +1,56 @@
+
+==================================================================
+https://keybase.io/burnflare
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://vishnuprem.com
+  * I am burnflare (https://keybase.io/burnflare) on keybase.
+  * I have a public key ASDCMqRQ8eaBSuGYMkTAJjG2eNyCBWiFqPNmqTqrig5r8Qo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01012bb9ee5a5fd4ea09f58e6e4e597b8ae5a7c698040eebf3d7f32de2f0e62316db0a",
+            "host": "keybase.io",
+            "kid": "0120c232a450f1e6814ae1983244c02631b678dc82056885a8f366a93aab8a0e6bf10a",
+            "uid": "bc69df62ea89691d6c6ee744923dd400",
+            "username": "burnflare"
+        },
+        "service": {
+            "hostname": "vishnuprem.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1487144813,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1487144775,
+        "hash": "3b9bf7a46287564d24f8800111c5f146a8424b2660affc4f4e2ebe153f086c5558d73a5d789ed7d3207ec0d69b0ff0fb3dd6ab636f741318a2041115bdf6bc42",
+        "seqno": 891447
+    },
+    "prev": "6f7c61d601daf94bb23db29762a6939b9c238737e337ac8d7e13a8df1c85d9e1",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwjKkUPHmgUrhmDJEwCYxtnjcggVohajzZqk6q4oOa/EKp3BheWxvYWTFAvd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMmJiOWVlNWE1ZmQ0ZWEwOWY1OGU2ZTRlNTk3YjhhZTVhN2M2OTgwNDBlZWJmM2Q3ZjMyZGUyZjBlNjIzMTZkYjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzIzMmE0NTBmMWU2ODE0YWUxOTgzMjQ0YzAyNjMxYjY3OGRjODIwNTY4ODVhOGYzNjZhOTNhYWI4YTBlNmJmMTBhIiwidWlkIjoiYmM2OWRmNjJlYTg5NjkxZDZjNmVlNzQ0OTIzZGQ0MDAiLCJ1c2VybmFtZSI6ImJ1cm5mbGFyZSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoidmlzaG51cHJlbS5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg3MTQ0ODEzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODcxNDQ3NzUsImhhc2giOiIzYjliZjdhNDYyODc1NjRkMjRmODgwMDExMWM1ZjE0NmE4NDI0YjI2NjBhZmZjNGY0ZTJlYmUxNTNmMDg2YzU1NThkNzNhNWQ3ODllZDdkMzIwN2VjMGQ2OWIwZmYwZmIzZGQ2YWI2MzZmNzQxMzE4YTIwNDExMTViZGY2YmM0MiIsInNlcW5vIjo4OTE0NDd9LCJwcmV2IjoiNmY3YzYxZDYwMWRhZjk0YmIyM2RiMjk3NjJhNjkzOWI5YzIzODczN2UzMzdhYzhkN2UxM2E4ZGYxYzg1ZDllMSIsInNlcW5vIjoxMSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEB/ieYFOiMR2OpnNTPvmazUkyKUZXYVJesDOSun5p8aE7cWo94xXCzSI2tAY2ErVBaGPbYL0q6v0gTgcVm8p7oAqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgSD7hqDVtvWR0L1Pa9cawbNWGC7aErpenhp28VtrfxHGjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/burnflare
+
+==================================================================
+
